@@ -801,4 +801,4 @@ if ('serviceWorker' in navigator) {
 <script src="//img1.wsimg.com/blobby/go/a530a27b-8bcc-4ba9-803c-d28e217fe0c3/gpub/73729940056acb63/script.js" crossorigin></script>
 <script src="//img1.wsimg.com/ceph-p3-01/website-builder-data-prod/static/widgets/UX.4.34.11.js" crossorigin></script>
 <script src="//img1.wsimg.com/blobby/go/a530a27b-8bcc-4ba9-803c-d28e217fe0c3/gpub/7167a28103b3c0fd/script.js" crossorigin></script>
-<script defer src="//img1.wsimg.com/traffic-assets/js/tccl.min.js" crossorigin></script></body></html>
+<script defer src="//img1.wsimg.com/traffic-assets/js/tccl.min.js" crossorigin></script></body>
